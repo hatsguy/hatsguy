@@ -2,4 +2,4 @@
         
 ![](https://komarev.com/ghpvc/?username=hatsguy&label=>⩊<&color=736788) 　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . 　  [strawpage](https://hat-guy.straw.page) 
 </p>
-<img width="2048" height="1152" alt="wanderer" src="https://github.com/user-attachments/assets/966a21d4-391b-4edf-a33d-ee984217465e" />
+<img width="3072" height="2364" alt="wanderer" src="https://github.com/user-attachments/assets/0b15715d-5c4c-4163-be6a-ca0528e98378" />
