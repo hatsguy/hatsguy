@@ -2,9 +2,10 @@
         
 ![](https://komarev.com/ghpvc/?username=hatsguy&label=>⩊<&color=a9abfa) 　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . 　  [strawpage](https://hat-guy.straw.page) 
 </p>
-<div style="text-align: center;">
-  <img src="https://file.garden/Z00gYfFOQVsOSq7V/wanderer%20(1).png" alt="wanwan">
-</div>
+
+<p align="center">
+  <img src="https://file.garden/Z00gYfFOQVsOSq7V/wanderer%20(1).png" />
+</p>
 
 <p align="center"
         
